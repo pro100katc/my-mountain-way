@@ -1,0 +1,9 @@
+{
+  "name": "my-mountain-way",
+  "version": "1.0.0",
+  "description": "My mountain way website",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx serve"
+  }
+}
